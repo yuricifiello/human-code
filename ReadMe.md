@@ -7,9 +7,10 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 -lampada da tavolo
 -penna stilografica
 -libro
--tempo compleanno Silvia
+-tempo consegna
 -budget
 -amazon
+-sorprenderla
 
 ### Algoritmo
 
@@ -29,3 +30,5 @@ Vado su Amazon, cerco la lampada da tavola
 
 - SE non ho comprato nulla
   - compro il libro
+- ALTRIMENTI
+  - non la sorprendo
